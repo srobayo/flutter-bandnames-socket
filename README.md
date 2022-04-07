@@ -29,3 +29,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## commit changes
 - git add .
+- git commit -m "App Terminada" 
+- git push
+- git remote -v    ## to see url repo
